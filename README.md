@@ -7,5 +7,3 @@
 2. Crear un repositorio en Git donde cargues el contenedor creado.
 
 3. Enviar el enlace del repositorio Git a dilopezz.
-
-git 
